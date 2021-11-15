@@ -23,7 +23,7 @@ This is a basic example for calculting in-hospital mortality probability. `func=
 ``` r
 library(isaric4c)
 isaric4c(age=69, sex=1, num_comorbidities=1, respiratory_rate=25, admission_oxygen_saturation=90, glasgow_coma_scale=10, urea=10, crp=70, func=0)
-$morttality_probability
+$mortality_probability
 [1] 40.1
 ```
 
