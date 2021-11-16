@@ -3,7 +3,7 @@
 
 # isaric4c
 
-<!-- badges: start -->
+[![R-CMD-check](https://github.com/resplab/isaric4c/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/resplab/isaric4c/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 This R package for the prediction of in-hospital mortality or in-hospital clinical deterioration probability (defined as any requirement of ventilatory support or critical care, or death) for hospitalised COVID-19 patients is described in https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7832571/#sec1, https://www.bmj.com/content/370/bmj.m3339
